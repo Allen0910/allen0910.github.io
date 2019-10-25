@@ -13,9 +13,9 @@ baseurl: /texture
 sass:
   sass_dir: _sass
   
-repository: Allen0910/allenchoi.github.io
-github_url: https://github.com/Allen0910
-url: http://www.allenchoi.github.io
+repository: allen0910/allenchoi.github.io
+github_url: https://github.com/allen0910
+url: http://allen0910.github.io
 
 permalink: /posts/:title/
 texture:
