@@ -15,7 +15,8 @@ sass:
   
 repository: allen0910/allenchoi.github.io
 github_url: https://github.com/allen0910
-url: http://allen0910.github.io
+url: http://allen0910.github.io/texture
+
 remote_theme: thelehhman/texture
 
 permalink: /posts/:title/
